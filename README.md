@@ -39,15 +39,13 @@ cd villagers_tree
 conda env create -f environment.yml
 ```
 
-### Activate the conda environment
+### Install the package
 
 * To install the python package in the environment you just created, you need to activate it first.
 
 ```
 conda activate villagers_tree
 ```
-
-### Install the package
 
 * Install the package contents.
 
