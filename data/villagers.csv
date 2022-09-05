@@ -1,0 +1,61 @@
+Villager,Suit,Symbols,Chain,Padlock,Unlocks,Food,Builder,Gold,Silver,Bronze,Condition,Count,Box
+Founders,Grains,1,Founders,,,1,,2,,,,5,V
+Poulterer,Grains,1,Founders+Poulterer,Carpenter,,1,,3,,,,2,V
+Swineherd,Grains,1,Founders+Swineherd+Truffler,,,1,,2,,,,2,V
+Truffler,Grains,1,Founders+Swineherd+Truffler,Hunter,,1,,8,,,,2,V
+Brewer,Grains,1,Founders+Brewer,Cooper,2,1,1,,,,,2,V
+Hayer,Hay,1,Hayer,,,,,,,,,15,V
+Grazier,Hay,1,Hayer+Grazier+Milk Maid+Fromager,,,1,,,,,,2,V
+Milk Maid,Hay,1,Hayer+Grazier+Milk Maid+Fromager,Cooper,,2,,,,,,2,V
+Fromager,Hay,1,Hayer+Grazier+Milk Maid+Fromager,,,1,,15,,,,2,V
+Thatcher,Hay,1,Hayer+Thatcher,,,,1,2,,,,2,V
+Bed Builder,Hay,2,Hayer+Bed Builder,Carpenter,,,,4,,,,2,V
+Horse Trader,Hay,1,Hayer+Horse Trader,,,,,,3,,2 Hay,2,V
+Ore Muler,Hay,1,Hayer+Ore Muler,,,,,,3,,2 Ore,2,V
+Peddler,Hay,1,Hayer+Peddler,Cartwright,,,,,3,,2 Gold,2,V
+Miner,Ore,1,Miner,,,,,,,,,15,V
+Seeker,Ore,1,Miner+Seeker+Spelunker+Jeweler,,,,,,,,,2,V
+Spelunker,Ore,1,Miner+Seeker+Spelunker+Jeweler,Chandler,,,,10,,,,2,V
+Jeweler,Ore,1,Miner+Seeker+Spelunker+Jeweler,Blacksmith,,,,20,,,,2,V
+Mason,Ore,1,Miner+Mason,,,,1,2,,,,2,V
+Glass Blower,Ore,2,Miner+Glass Blower,Blacksmith,2,,,4,,,,2,V
+Blacksmith,Ore,1,Miner+Blacksmith,,10,,,2,,,,2,V
+Locksmith,Ore,1,Miner+Locksmith,Blacksmith,,,,,2,,Padlock,2,V
+Lumberjack,Wood,1,Lumberjack,,,,,,,,,15,V
+Carpenter,Wood,1,Lumberjack+Carpenter,,8,,1,,,,,2,V
+Cooper,Wood,1,Lumberjack+Cooper,Blacksmith,6,,,4,,,,2,V
+Wheeler,Wood,1,Lumberjack+Wheeler+Cartwright,,,,,3,,,,2,V
+Cartwright,Wood,1,Lumberjack+Wheeler+Cartwright,,2,,,9,,,,2,V
+Shipwright,Wood,1,Lumberjack+Shipwright,,4,,1,2,,,,2,V
+Log Rafter,Wood,2,Lumberjack+Log Rafter,,,,,,1,,Wood,2,V
+Wood Carver,Wood,1,Lumberjack+Wood Carver,,,,,,1,,Gold on Wood,2,V
+Graper,Grapes,1,Graper,,,1,,,,,,2,V
+Vintner,Grapes,1,Graper+Vintner+Wine Trader,Cooper,,,,5,,,,2,V
+Wine Trader,Grapes,1,Graper+Vintner+Wine Trader,Glass Blower,,,,14,,,,2,V
+Tanner,Leather,1,Tanner,,,,,2,,,,2,V
+Saddler,Leather,1,Tanner+Saddler,,,,,5,,,,2,V
+Cobbler,Leather,1,Tanner+Cobbler,Blacksmith,,,,6,,,,2,V
+Shepherd,Wool,1,Shepherd,,,1,,,,,,2,V
+Spinner,Wool,1,Shepherd+Spinner+Weaver+Tailor,,,,,4,,,,2,V
+Weaver,Wool,1,Shepherd+Spinner+Weaver+Tailor,Carpenter,,,,12,,,,2,V
+Tailor,Wool,1,Shepherd+Spinner+Weaver+Tailor,,,,,24,,,,2,V
+Harvester,Solitary,1,Harvester,,2,1,,,,,,2,V
+Fisher,Solitary,1,Fisher,Shipwright,,1,,3,,,,2,V
+Chandler,Solitary,2,Chandler,,4,,,3,,,,2,V
+Hunter,Solitary,1,Hunter,,2,1,,,,,,2,V
+Wattler,Solitary,1,Wattler,,,,1,,,,,2,V
+Beekeeper,Solitary,1,Beekeeper,Carpenter,,,,4,,,,2,V
+Agent,Solitary,1,Agent,,,,,,1,,Coins on Villager,2,V
+Freemason,Solitary,1,Freemason,Brewer,,,,,3,,Builder,2,V
+Priest,Solitary,1,Priest,Chandler,,,,,3,,2 Solitary,2,V
+Grocer,Solitary,1,Grocer,Harvester,,,,,3,,Food,2,V
+Plower,Solitary,1,Plower,,,,,,2,,Grains,2,P+S
+Scribe,Solitary,1,Scribe,,,,,,1,,Card in Hand,2,P+S
+Miller,Grains,1,Founders+Miller+Baker,,,,,,,1,Grains,1,SSK
+Baker,Grains,1,Founders+Miller+Baker,,,,,,,2,Grains,1,SSK
+Hatter,Hay,1,Hayer+Hatter,,,,,,,1,Card in Hand,1,SSK
+Naylor,Ore,1,Miner+Naylor,,,,,,,1,Builder,1,SSK
+Spooner,Wood,1,Lumberjack+Spooner,,,,,,,1,Food,1,SSK
+Glover,Solitary,1,Glover,,,,,,,1,Gold on Leather,1,SSK
+Acquisitor,Solitary,1,Acquisitor,,,,,,3,,Grapes or Wool or Leather,2,SSK
+Captain,Solitary,1,Captain,,,,,,,1,Gold,1,VK
